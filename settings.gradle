@@ -1,0 +1,4 @@
+rootProject.name='AndroidLibrariesDemo'
+include ':app'
+include ':libraryandroid'
+include ':kotlinlib'
